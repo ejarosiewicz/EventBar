@@ -1,9 +1,9 @@
 package com.ejarosiewicz.eventbar.events.viewmodel.fragment
 
-import android.databinding.BaseObservable
+import android.arch.lifecycle.ViewModel
 
 
-class EventsActivityViewModel : BaseObservable() {
+class EventsActivityViewModel : ViewModel() {
 
 
 }
